@@ -32,7 +32,7 @@ To inform our recommendations, I evaluated:
 - DNS failover and name resolution strategies in hybrid environments
 - Best practices for DHCP migration and phased transitions
 
-  ## Team
+## Team
 This project was developed as part of CS 4843 – Cloud Computing  
 University of Texas at San Antonio – Spring 2025  
 Instructor: Professor Juan M. Valadez
@@ -42,3 +42,18 @@ Instructor: Professor Juan M. Valadez
 - Nico Cruz – ERP, Databases, Email
 - Adrian Arizpe – Application & Web Servers
 - Patricia Harrison – Storage & Compliance
+
+## License
+Creative Commons Attribution-NonCommercial 4.0 International
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit.
+- NonCommercial — You may not use the material for commercial purposes.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
